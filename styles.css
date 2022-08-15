@@ -106,6 +106,12 @@
     padding: 1.5rem;
     border-radius: var(--radius);
   }
+  @media all and (max-width: 520px) {
+  .modal.open {
+    width: 350px;
+
+  }
+}
   
   .modal h2 {
     text-align: center;
