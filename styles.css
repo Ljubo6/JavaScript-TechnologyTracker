@@ -108,7 +108,7 @@
   }
   @media all and (max-width: 520px) {
   .modal.open {
-    width: 350px;
+    width: 200px;
 
   }
 }
